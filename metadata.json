@@ -1,0 +1,11 @@
+{
+  "name": "  FlashTable ",
+  "description": "Indian restaurant table reservation platform with interactive 2D floor plans, real-time availability, and exact table booking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
